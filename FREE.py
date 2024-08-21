@@ -66,19 +66,7 @@ for agent in range(10000):
         l='Mobile Safari/533.1'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt) 
-    
 
-def clear():
-	os.system('clear')
-	print(logo)
-logo=("""\033[1;37m
- .d8888.  .d8b.  d888888b  .d8b.  d8b   db 
- 88'  YP d8' `8b `~~88~~' d8' `8b 888o  88 
- `8bo.   88ooo88    88    88ooo88 88V8o 88 
-\033[92;1m   `Y8b. 88~~~88    88    88~~~88 88 V8o88 
- db   8D 88   88    88    88   88 88  V888 
- `8888Y' YP   YP    YP    YP   YP VP   V8P         
-         \033[1;37m[\033[92;1mSATAN \033[92;1mNAAM \033[92;1mTU \033[92;1mSUNA \033[92;1mHOGA\033[1;37m]
 \033[1;37m-----------------------------------------------
 \033[1;37m AUTHOR    : SATAN \033[92;1m•
 \033[1;37m GITHUB    : NOT FOUND
